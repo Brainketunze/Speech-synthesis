@@ -1,4 +1,4 @@
-# Project Title: Speech syhthesis
+# Speech syhthesis
 
 project description
 
