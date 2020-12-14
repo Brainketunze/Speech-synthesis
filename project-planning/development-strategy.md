@@ -2,7 +2,7 @@
 
 project description
 
-`Speech synthesis is one half of the Web Speech API, the other being the speech recognition API we dealt with earlier. Speech synthesis is accessed via the SpeechSynthesis interface, a text-to-speech component that allows programs to read out their text content (normally via the device's default speech synthesizer.) Different voice types are represented by SpeechSynthesisVoice objects, and different parts of text that you want to be spoken are represented by SpeechSynthesisUtterance objects. You can get these spoken by passing them to the SpeechSynthesis.speak() method. Is an app that speak whatever text mesage is initialise in the text area.`
+Speech synthesis is one half of the Web Speech API, the other being the speech recognition API we dealt with earlier. Speech synthesis is accessed via the SpeechSynthesis interface, a text-to-speech component that allows programs to read out their text content (normally via the device's default speech synthesizer.) Different voice types are represented by SpeechSynthesisVoice objects, and different parts of text that you want to be spoken are represented by SpeechSynthesisUtterance objects. You can get these spoken by passing them to the SpeechSynthesis.speak() method. Is an app that speak whatever text mesage is initialise in the text area.
 
 ## User Story Dependencies
 
