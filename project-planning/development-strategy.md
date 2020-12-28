@@ -25,7 +25,7 @@ A simple web site allows the user to enter something and then the input will con
 
 ---
 
-## X. Initialize the web page 
+## 1. Initialize the web page 
 
 > how much work do you think this step will take?  medium
 
@@ -76,7 +76,7 @@ with yellow background.
    * add style to `textarea`  height 
    * add style to `button`  background,border,font family and size , cursor and position
 
-## X. Select the accent 
+## 2. Select the accent 
 
 > how much work do you think this step will take?  medium
 
@@ -116,7 +116,7 @@ with yellow background.
   * add event listener to when 'voiceschanged' call the function `populateVoices()`
 
 
-## X. Voice rate 
+## 3. Voice rate 
 
 > how much work do you think this step will take?  medium
 
@@ -147,7 +147,7 @@ when I scroll the `Rate button` the sound velocity increases ( speak faster)
    
     *  add event listener to when 'change' call the function `setVoice()`
 
-## X. Voice Pitch
+## 4. Voice Pitch
 
 > how much work do you think this step will take?  medium
 
@@ -179,7 +179,7 @@ when I scroll the `Pitch` the sound deepness  decreases  ( the voice become thin
     * add event listener to when 'change' call the function `setOption()`
 
 
-## X. Text area
+## 5. Text area
 
 > **As I user I want to know if I can add text to  `textarea`**
 
@@ -195,7 +195,7 @@ when I click on the `textarea`
 - This branch is merged to `master` branch after the acceptance criteria have been checked off.
 
 
-## X. Play
+## 6. Play
 
 > **As I user I want to know what is `Play` button doing**
 
@@ -217,7 +217,7 @@ when I click on  `Play` button
      * add event listener to when 'click' call the function ` toggle()`
 
 
-## X. Stop
+## 7. Stop
 
 
 > **As I user I want to know what is `Stop` button doing**
